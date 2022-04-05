@@ -1,5 +1,5 @@
-const contractAddress = "0x53f9DfAe1A869CFFCDD73b6bb1C243a0D3bA92b4"; //Replace with your own contract address
-const chain = 'rinkeby'; // rinkeby or polygon
+const contractAddress = "0x44F81764bae4994230Aa5Aed3a10dceA5cd346f4"; //Replace with your own contract address
+const chain = 'polygon'; // rinkeby or polygon
 
 const welcome_h1 = "Welcome to the Simplemon NFT Project!!";
 const welcome_h2 = "Connect to MetaMask to Get Started";
